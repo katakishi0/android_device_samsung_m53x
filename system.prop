@@ -1,0 +1,12 @@
+# Device release name
+#ro.display.series=Samsung Galaxy M53
+
+# Dynamic partition
+#ro.boot.dynamic_partitions=true
+
+# Disable Rescue Party
+#persist.sys.disable_rescue=true
+
+# AVB
+#ro.boot.avb_version=1.0
+#ro.boot.vbmeta.avb_version=1.0
