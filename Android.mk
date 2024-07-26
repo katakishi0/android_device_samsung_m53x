@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-ifneq ($(filter m53x, $(TARGET_DEVICE)),)
+ifneq ($(filter m53x, $(FOX_TARGET_DEVICES)),)
 
 LOCAL_PATH := $(call my-dir)
 
