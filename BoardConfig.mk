@@ -109,3 +109,10 @@ TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_USE_TOOLBOX := true
 TW_MAX_BRIGHTNESS := 255
 TW_DEFAULT_BRIGHTNESS := 80
+
+# TWRP Configuration: Logd
+TWRP_INCLUDE_LOGCAT := true
+TARGET_USES_LOGD := true
+
+# Backups
+TW_BACKUP_EXCLUSIONS := /data/fonts
