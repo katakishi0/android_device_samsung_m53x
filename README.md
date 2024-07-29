@@ -1,5 +1,5 @@
 The Samsung Galaxy M53 5G (codenamed "m53x") is a smartphone from Samsung.
-
+Only SM-M536B
 ## Spec Sheet
 
 | Feature                    | Specification                                                |
